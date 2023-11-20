@@ -1,0 +1,36 @@
+{
+  "name": "gambling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paollacq/GAMBLING.git"
+  },
+  "keywords": [
+    "blockchain",
+    "smart",
+    "contract",
+    "typescrypt"
+  ],
+  "author": "polichain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paollacq/GAMBLING/issues"
+  },
+  "homepage": "https://github.com/paollacq/GAMBLING#readme",
+  "devDependencies": {
+    "@types/react-dom": "^18.2.15",
+    "hardhat": "^2.19.1"
+  },
+  "dependencies": {
+    "@mui/material": "^5.14.18",
+    "@openzeppelin/contracts": "^5.0.0",
+    "ethers": "^6.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
